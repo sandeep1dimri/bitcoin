@@ -2,6 +2,18 @@
 
 bicoin price
 
+Flutter takeaways!
+1. Android vs iOS - separate code for each platform. cupertino on iOS.
+2. async and await on functions.
+3. API calls to https://rest.coinapi.io/v1/exchangerate, using freeAccount.
+4. Close monitoring on constructors and code re-usability.
+
+##missing
+1. No logo and no branding
+2. if cryptoList grows and goes beyond safe area, there is no control placed in this app.
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
