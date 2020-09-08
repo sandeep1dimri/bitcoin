@@ -1,6 +1,6 @@
 # bitcoin_ticker
 
-bicoin price
+bitcoin price
 
 Flutter takeaways!
 1. Android vs iOS - separate code for each platform. cupertino on iOS.
